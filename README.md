@@ -1,4 +1,8 @@
-FYI This is an app created to show that I can code in react. It's not tested, it's not perfect (as I have other things to do than coding!). I would write it in Typescript if creating a greenfield project etc but it gives an idea of my ability to write code.
+This is a basic app created to show that I can code in React. 
+It's not tested and it's not perfect (as I have other things to do than coding on weekends!). 
+If I were to improve it, first of all I would write it in Typescript and would include a UI framework such as Material-UI or React-Bootstrap.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React Capp](https://github.com/facebook/create-react-app).
 
