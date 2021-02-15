@@ -1,5 +1,5 @@
 This is a basic app created to show that I can code in React. 
-It's not tested and it's not perfect (as I have other things to do than coding on weekends!). 
+It's not tested and it's not perfect, it's more of a prototype. 
 If I were to improve it, first of all I would write it in Typescript and would include a UI framework such as Material-UI or React-Bootstrap.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
